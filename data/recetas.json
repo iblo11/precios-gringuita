@@ -1,0 +1,1926 @@
+[
+    {
+        "codigo": "001",
+        "nombre": "Condimento para milanesa",
+        "ingredientes": [
+            {
+                "nombre": "Ajo",
+                "cantidad": 6,
+                "unidad":"Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Leche",
+                "cantidad": 1,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Condi para CARNE",
+                "cantidad": 0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal",
+                "cantidad": 0.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad":0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+            
+        ]
+    },
+    {
+        "codigo": "004",
+        "nombre": "Salsa tuco",
+        "ingredientes": [
+            {
+                "nombre": "Pure de tomate",
+                "cantidad": 0.2,
+                "unidad":" Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 2,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal",
+                "cantidad":0.030,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 0.2,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.060,
+                "unidad": "Lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "003",
+        "nombre": "Salsa Blanca",
+        "ingredientes": [
+            {
+                "nombre": "Maicena",
+                "cantidad": 0.120,
+                "unidad":"Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Manteca ok",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Leche",
+                "cantidad": 2,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Nuez moscada",
+                "cantidad":0.005,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal",
+                "cantidad":0.030,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+            
+        ]
+    },
+    {
+        "codigo": "3d",
+        "nombre": "ARROZ BLANCO",
+        "ingredientes": [
+            {
+                "nombre": "Arroz parbolizado",
+                "cantidad": 1.0,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 2.0,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.03,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.15,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 3.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "3a",
+        "nombre": "PURE DE PAPAS",
+        "ingredientes": [
+            {
+                "nombre": "Papa",
+                "cantidad": 6.0,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 2.0,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Manteca ok",
+                "cantidad": 0.3,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Leche",
+                "cantidad": 0.7,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Crema de leche",
+                "cantidad": 0.3,
+                "unidad": "lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "002",
+        "nombre": "Apanado",
+        "ingredientes": [
+            {
+                "nombre": "Harina 0000",
+                "cantidad": 0.7,
+                "unidad":" Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Galleta molida",
+                "cantidad": 0.8,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Huevo",
+                "cantidad": 4,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Leche",
+                "cantidad": 0.05,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad":0.7,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal",
+                "cantidad": 0.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+            
+        ]
+    },
+    {
+        "codigo": "1b",
+        "nombre": "Buffet Completo (Zapallito relleno solo)",
+        "ingredientes": [
+            {
+                "nombre": "Zapallito",
+                "cantidad": 1.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Bola de lomo",
+                "cantidad": 0.7,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 2.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.05,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso muzzarella",
+                "cantidad": 0.18,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "1c",
+        "nombre": "Buffet Completo (Morron relleno con pollo)",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 1.25,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.22,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 3.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.08,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.005,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote rojo",
+                "cantidad": 1.125,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote amarillo",
+                "cantidad": 0.375,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.03,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.05,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso katupiri",
+                "cantidad": 0.8,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    
+    {
+        "codigo": "3b",
+        "nombre": "FIDEO A LA CREMA con JyQ",
+        "ingredientes": [
+            {
+                "nombre": "Fideo Anita",
+                "cantidad": 0.4,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 1.2,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.03,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso muzzarella",
+                "cantidad": 0.12,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Jamonada oshi entero",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Crema de leche",
+                "cantidad": 0.3,
+                "unidad": "lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "5a",
+        "nombre": "POLLO CAPRESE",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 5.625,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Tomate",
+                "cantidad": 0.4,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Albahaca fresca",
+                "cantidad": 2.0,
+                "unidad": "Mazos",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso muzzarella",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso katupiri",
+                "cantidad": 0.25,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 3.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.015,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sabora",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.03,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Comino",
+                "cantidad": 0.005,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "5b",
+        "nombre": "MUSLO DE POLLO",
+        "ingredientes": [
+            {
+                "nombre": "Muslo",
+                "cantidad": 7.36,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 4.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Salsa de soja",
+                "cantidad": 0.2,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sabora",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 0.25,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "5c",
+        "nombre": "POLLO A LA MOSTAZA",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 5.0,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.1,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 3.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sabora",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Crema de leche",
+                "cantidad": 1.0,
+                "unidad": "Lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "5d",
+        "nombre": "ROLLITO DE POLLO",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 1.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.23,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote rojo",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote amarillo",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 3.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.015,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Manteca ok",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Salsa de soja",
+                "cantidad": 0.1,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Maicena",
+                "cantidad": 0.06,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "5e",
+        "nombre": "CHOPSUEY DE POLLO",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 3.75,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote rojo",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote amarillo",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 4.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.015,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 0.7,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Salsa de soja",
+                "cantidad": 0.2,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Maicena",
+                "cantidad": 0.06,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote verde",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.35,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Vinagre",
+                "cantidad": 0.2,
+                "unidad": "Lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "5f",
+        "nombre": "Strogonoff de Pollo",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 3.75,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.1,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sabora",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 4.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.015,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ketchup",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Crema de leche",
+                "cantidad": 1.0,
+                "unidad": "Lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "5g",
+        "nombre": "Grillé de Pollo a la Parisien",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 4.75,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.15,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.015,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso muzzarella",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 4.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Jamonada oshi entero",
+                "cantidad": 0.12,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Crema de leche",
+                "cantidad": 1.0,
+                "unidad": "Lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "6a",
+        "nombre": "VORI VORI DE POLLO",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 5.125,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 1.0,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 6.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote verde",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.6,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zapallo",
+                "cantidad": 1.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Apio",
+                "cantidad": 0.025,
+                "unidad": "1 Ramita",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Laurel",
+                "cantidad": 0.02,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 3.0,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal condimentada",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Harina de maiz",
+                "cantidad": 1.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.15,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso paraguay",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "6c",
+        "nombre": "CHUPÍN DE POLLO",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 6.0,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 1.0,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 6.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote verde",
+                "cantidad": 0.25,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote rojo",
+                "cantidad": 0.12,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.21,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Azúcar",
+                "cantidad": 0.02,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 1.2,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Condimento para pollo",
+                "cantidad": 0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad": 0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.15,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Pure de tomate",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "6d",
+        "nombre": "GUISO DE ARROZ CON CARNE",
+        "ingredientes": [
+            {
+                "nombre": "Bola de lomo",
+                "cantidad": 1.56,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.8,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 4.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote verde",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Arroz",
+                "cantidad": 1.0,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Laurel",
+                "cantidad": 0.005,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 2.5,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Arveja en lata",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.15,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Pure de tomate",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal condimentada",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "7a",
+        "nombre": "Estofado de Carne",
+        "ingredientes": [
+            {
+                "nombre": "Bola de lomo",
+                "cantidad": 2.597,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.05,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 4.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Laurel",
+                "cantidad": 0.005,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal condimentada",
+                "cantidad": 0.03,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote verde",
+                "cantidad": 0.11,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.4,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Pure de tomate",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 1.2,
+                "unidad": "Lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "7b",
+        "nombre": "Rollito de Carne",
+        "ingredientes": [
+            {
+                "nombre": "Bola de lomo",
+                "cantidad": 1.948,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.1,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 4.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zukini",
+                "cantidad": 0.18,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote rojo",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Panceta",
+                "cantidad": 0.75,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Salsa de soja",
+                "cantidad": 0.2,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 1.0,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 2.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Maizena",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "8a",
+        "nombre": "ENSALADA MIXTA",
+        "ingredientes": [
+            {
+                "nombre": "Lechuga",
+                "cantidad": 1.0,
+                "unidad": "Mazo",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Tomate",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "8b",
+        "nombre": "ENSALADA RUSA",
+        "ingredientes": [
+            {
+                "nombre": "Papa",
+                "cantidad": 1.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Arveja en lata",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Mayonesa",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebollita de hoja",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 1.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Vinagre",
+                "cantidad": 0.01,
+                "unidad": "Lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "8c",
+        "nombre": "ENSALADA ALEMANA",
+        "ingredientes": [
+            {
+                "nombre": "Papa",
+                "cantidad": 2.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.225,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Mayonesa",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebollita de hoja",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.06,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 2.0,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Vinagre",
+                "cantidad": 0.01,
+                "unidad": "Lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "8d",
+        "nombre": "ENSALADA POROTO",
+        "ingredientes": [
+            {
+                "nombre": "Poroto colorado",
+                "cantidad": 0.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.03,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Mayonesa",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebollita de hoja",
+                "cantidad": 0.5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote verde",
+                "cantidad": 0.06,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote rojo",
+                "cantidad": 0.04,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 3.0,
+                "unidad": "Lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Vinagre",
+                "cantidad": 0.01,
+                "unidad": "Lit",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "8e",
+        "nombre": "VERDURAS AL VAPOR",
+        "ingredientes": [
+            {
+                "nombre": "Brocoli",
+                "cantidad": 0.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Coliflor",
+                "cantidad": 0.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zapallo",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zukini",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.3,
+                "unidad": "Unid",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "8f",
+        "nombre": "ENS. DE REPOLLO",
+        "ingredientes": [
+            {
+                "nombre": "Repollo",
+                "cantidad": 0.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote rojo",
+                "cantidad": 0.04,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Choclo",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.01,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Mayonesa",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "4",
+        "nombre": "Milanesa de Pollo",
+        "ingredientes": [
+            {
+                "nombre": "Pechuga",
+                "cantidad": 2.0,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Condimento para milanesa",
+                "cantidad": 2.4,
+                "unidad": "Kg",
+                "es_subreceta": true
+            }
+        ]
+    },
+    {
+        "codigo": "005",
+        "nombre": "Salsa Boloñesa",
+        "ingredientes": [
+            {
+                "nombre": "Salsa tuco",
+                "cantidad": 0.420,
+                "unidad":" Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Bola de lomo",
+                "cantidad": 0.5,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "006",
+        "nombre": "Pastelon de papa",
+        "ingredientes": [
+            {
+                "nombre": "Pure de papas",
+                "cantidad": 1.5,
+                "unidad":" Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Huevo",
+                "cantidad": 5,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Salsa Boloñesa",
+                "cantidad": 0.8,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Queso muzzarella",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Oregano",
+                "cantidad":0.010,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Huevo",
+                "cantidad": 2,
+                "unidad": "Unid",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "1a",
+        "nombre": "Buffet Completo (Mila de pollo con puré y ensalada)",
+        "ingredientes": [
+            {
+                "nombre": "Milanesa de Pollo",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Ensalada Mixta",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Pure de papas",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": true
+            }
+        ]
+    },
+    {
+        "codigo": "1d",
+        "nombre": "Buffet Completo (Morrón relleno de pollo con ensalada mixta y arroz. 1/3 c/u)",
+        "ingredientes": [
+            {
+                "nombre": "Morron relleno",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ensalada Mixta",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Arroz",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "1f",
+        "nombre": "Buffet Completo (Zapallito relleno de carne con arroz quesú y ens. Rusa. 1/3 c/u)",
+        "ingredientes": [
+            {
+                "nombre": "Zapallito relleno",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ensalada Rusa",
+                "cantidad": 0.1,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Arroz quesú",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": true
+            }
+        ]
+    },
+    {
+        "codigo": "2",
+        "nombre": "Milanesa de Carne",
+        "ingredientes": [
+            {
+                "nombre": "Bola de lomo",
+                "cantidad": 4.425,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Condimento para milanesa",
+                "cantidad": 6.3,
+                "unidad": "Kg",
+                "es_subreceta": true
+            }
+        ]
+    },
+    {
+        "codigo": "19",
+        "nombre": "Sand. Milanesa de Carne",
+        "ingredientes": [
+            {
+                "nombre": "Milanesa de Carne",
+                "cantidad": 0.18,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Pan ovalado c/ semilla",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "22",
+        "nombre": "Sand. Milanesa de Carne",
+        "ingredientes": [
+            {
+                "nombre": "Milanesa de Carne",
+                "cantidad": 0.18,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Pan ovalado",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "3c",
+        "nombre": "PAPA A LA CREMA",
+        "ingredientes": [
+            {
+                "nombre": "Papa",
+                "cantidad": 2.0,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Agua",
+                "cantidad": 1.5,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Sal fina",
+                "cantidad": 0.05,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso muzzarella",
+                "cantidad": 0.12,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso rallado",
+                "cantidad": 0.02,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Salsa Blanca",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": true
+            }
+        ]
+    },
+    {
+        "codigo": "3d",
+        "nombre": "ARROZ QUESÚ",
+        "ingredientes": [
+            {
+                "nombre": "Arroz blanco",
+                "cantidad": 1.0,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Crema de leche",
+                "cantidad": 0.5,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Leche",
+                "cantidad": 0.5,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Queso muzzarella",
+                "cantidad": 0.3,
+                "unidad": "Kg",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "3f",
+        "nombre": "ARROZ FRITO MIXTO",
+        "ingredientes": [
+            {
+                "nombre": "Arroz blanco",
+                "cantidad": 1.5,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Huevo",
+                "cantidad": 8.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Arveja en lata",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Choclo",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Zanahoria",
+                "cantidad": 0.2,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Locote rojo",
+                "cantidad": 0.12,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebolla",
+                "cantidad": 0.25,
+                "unidad": "Kg",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Ajo",
+                "cantidad": 4.0,
+                "unidad": "Dientes",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Caldo de verdura/carne/pollo",
+                "cantidad": 1.0,
+                "unidad": "Unid",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Aceite",
+                "cantidad": 0.1,
+                "unidad": "lit",
+                "es_subreceta": false
+            },
+            {
+                "nombre": "Cebollita de verdeo",
+                "cantidad": 1.0,
+                "unidad": "Masito",
+                "es_subreceta": false
+            }
+        ]
+    },
+    {
+        "codigo": "6b",
+        "nombre": "MILA DE POLLO CON PURE",
+        "ingredientes": [
+            {
+                "nombre": "Milanesa de pollo",
+                "cantidad": 0.23,
+                "unidad": "Kg",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Pure de papas",
+                "cantidad": 0.15,
+                "unidad": "Kg",
+                "es_subreceta": true
+            }
+        ]
+    },
+    {
+        "codigo": "6e",
+        "nombre": "PASTELÓN DE PAPA con ensalada de repollo",
+        "ingredientes": [
+            {
+                "nombre": "Pastelón de papa",
+                "cantidad": 12.0,
+                "unidad": "porción",
+                "es_subreceta": true
+            },
+            {
+                "nombre": "Ens. De repollo",
+                "cantidad": 1.3,
+                "unidad": "Kg",
+                "es_subreceta": true
+            }
+        ]
+    }
+]
